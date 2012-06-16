@@ -1,0 +1,87 @@
+.body{
+    font-size: 12px; 
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-image: url(assets/subtle_freckles.png);
+    background-color:#FDF6E3;
+}
+
+h1{
+    color:#666666;
+    font-style:italic;
+    text-decoration:none;
+    font-weight:lighter;
+    font-size: 20px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2{
+    color:#666666;
+    text-decoration:none;
+    //font-weight:lighter;
+    font-size: 16px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3{
+    text-indent:0px;
+    color:#666666;
+    text-decoration:none;
+    font-weight:lighter;
+    font-size: 18px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a{
+    color:#666666;
+    text-decoration:none;
+    font-weight:lighter;
+    font-size: 20px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nav{
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.nav a{
+    color:#555555;
+    text-decoration:none;
+    font-size: 36px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-right: 15px;
+}
+
+#container{
+    width:900px;
+    margin:auto;
+    margin-top:50px;
+}
+
+#nav{
+    width:300px;
+    float:left;
+    color:#666666;
+    text-decoration:none;
+    font-weight:lighter;
+    font-size: 36px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#content{
+    width:400px;
+    float:right;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:100;
+    margin-right:100;
+}
+
+#content > p{
+    margin-left:50px;
+}
+
+.clear{
+    clear:both;
+}
+

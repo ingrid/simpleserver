@@ -1,0 +1,42 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+</head>
+<body>
+<div id="container">
+
+  <div id="nav">
+     <div class="nav" data-content="about" style="background:#65B2DE">
+       <a class="nav" href="about.html">
+	 about
+       </a>
+       <br>
+     </div>
+   </a>
+    <div class="nav" data-content="skills" style="background:#A9D15F">
+      <a class="nav" href="skills.html">
+	skills
+      </a>
+      <br>
+    </div>
+    <div class="nav" data-content="projects" style="background:#FFCB51">
+      <a class="nav" href="projects.html">
+	projects
+      </a>
+      <br>
+    </div>
+    <div class="nav" data-content="contact" style="background:#DD4D42">
+      <a class="nav" href="contact.html">
+	contact
+      </a>
+      <br>
+    </div>
+  </div>
+  <div id="content">
+    <h3 id="about" style="display:none;">I am a developer based in Boston. I like dogs, performance poetry, and public transportation. In my free time, I like to read, hike, play with dogs, and craft.</h3>
+   </div>
+
+  <br class="clear" /> 
+</div>
+</body>
+</html>
