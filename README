@@ -1,0 +1,5 @@
+A simple HTTP server for Hacker School.
+
+To run the test site:
+
+python server.py site
